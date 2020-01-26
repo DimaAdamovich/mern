@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b96a453e-34ab-463a-a7ef-1b4c1770f02a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1Wn8yB4zmN5qMIf6rc3X08GFZJU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/client/src/pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b96a453e-34ab-463a-a7ef-1b4c1770f02a" name="Default Changelist" comment="" />
+      <created>1579774249824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579774249824</updated>
+      <workItem from="1579774251598" duration="12033000" />
+      <workItem from="1579808596849" duration="599000" />
+      <workItem from="1579815687809" duration="1033000" />
+      <workItem from="1579816737619" duration="22000" />
+      <workItem from="1579816774450" duration="73000" />
+      <workItem from="1579816863830" duration="1647000" />
+      <workItem from="1579885291739" duration="11025000" />
+      <workItem from="1579904930942" duration="2280000" />
+      <workItem from="1579939396623" duration="2688000" />
+      <workItem from="1579942384908" duration="3315000" />
+      <workItem from="1579948258247" duration="13923000" />
+      <workItem from="1579972553914" duration="168000" />
+      <workItem from="1579972737290" duration="592000" />
+      <workItem from="1579974078527" duration="3851000" />
+      <workItem from="1579984072977" duration="3006000" />
+      <workItem from="1580032592968" duration="6378000" />
+      <workItem from="1580061249444" duration="5909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="345" width="578" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580033059604">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="698" y="345" width="578" height="423" key="#com.intellij.fileTypes.FileTypeChooser/64.27.1856.1053@64.27.1856.1053" timestamp="1580033059604" />
+    <state x="675" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579972716337">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="675" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1579972716337" />
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579801899193">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1579801899193" />
+    <state x="419" y="281" width="1260" height="737" key="SettingsEditor" timestamp="1579942547723">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="419" y="281" width="1260" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1579942547723" />
+  </component>
+</project>

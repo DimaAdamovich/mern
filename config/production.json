@@ -1,0 +1,6 @@
+{
+  "port": "4000",
+  "jwtSecret": "some secret key",
+  "mongoUrl": "mongodb+srv://Dima:7qwerty7@cluster0-vmwrp.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:4000"
+}
